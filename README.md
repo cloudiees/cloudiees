@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there 👋
+I'm a computer science major @ UIC
 <!--
 **cloudiees/cloudiees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
